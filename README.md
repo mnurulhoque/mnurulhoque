@@ -149,6 +149,3 @@ I am actively interested in:
 </p>
 
 ⭐ If you find my work useful, feel free to explore and star the repositories!
-
-[![LangGraph](https://img.shields.io/badge/LangGraph-FF6C37?style=for-the-badge&logo=python&logoColor=white)](https://www.langgraph.com/)
-</p>
