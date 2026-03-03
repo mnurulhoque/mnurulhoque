@@ -1,79 +1,61 @@
-# Hi, I'm Md. Nurul Hoque 👋
+# 👋 Hi, I'm Md. Nurul Hoque
 
-## Data Scientist | Machine Learning Engineer | Cloud & MLOps Enthusiast
+**Data Scientist | Machine Learning Engineer | Cloud & MLOps Enthusiast**
 
-I build end-to-end data and machine learning systems — from raw data pipelines to deployed cloud applications.  
-Passionate about production-ready ML, cloud deployment, and solving real-world business problems.
-
-📍 Based in the U.S.  
-📫 Email: nurul.hoque.ru@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/nurul-hoque  
+📍 Based in the United States  
+📫 nurul.hoque.ru@gmail.com  
+🔗 https://www.linkedin.com/in/nurul-hoque  
 
 ---
 
-## 🧰 Tech Stack
+### 📫 Connect with Me
 
-### 💻 Programming & Data
-![My Skills](https://skillicons.dev/icons?i=python,postgres,git,github,linux)
+<a href="https://www.linkedin.com/in/nurul-hoque"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:nurul.hoque.ru@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail"></a>
 
-### 🤖 Machine Learning & AI
-![ML Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch)
+---
 
-### ☁️ Cloud & Deployment
-![Cloud Skills](https://skillicons.dev/icons?i=aws,docker)
+### 🧰 Tech Skills
 
-### 📊 Visualization & Analytics
-Power BI | AWS QuickSight | Matplotlib | Seaborn
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Streamlit](https://img.shields.io/badge/-Streamlit-E34F26?style=flat-square&logo=streamlit)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn)
+![Optuna](https://img.shields.io/badge/-Optuna-764ABC?style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 Telecom Customer Churn Prediction (AWS EC2 Deployment)
-End-to-end ML pipeline with imbalance handling (SMOTE, SMOTEENN), hyperparameter tuning (Optuna), and live deployment on AWS EC2 using Streamlit.
-
+### 📊 Telecom Customer Churn Prediction
+End-to-end machine learning pipeline with class imbalance handling, hyperparameter tuning, and AWS EC2 deployment via Streamlit.  
 🔗 https://github.com/mnurulhoque/Telecom-Customer-Churn-Prediction-using-Machine-Learning
 
----
-
-### ☁️ Cloud ETL Pipeline – YouTube Trending Data (AWS Serverless)
-Built a serverless ETL architecture using S3, Lambda, Glue, Athena, and QuickSight to enable scalable analytics on YouTube trending data.
-
+### ☁️ Cloud ETL Pipeline – YouTube Trending
+Serverless ETL using AWS S3, Lambda, Glue, Athena, QuickSight for analytics.  
 🔗 https://github.com/mnurulhoque/YouTube-Trending-Data-Analytics-on-AWS
 
----
-
-### 🚗 Used Car Price Prediction – ML Regression Pipeline
-Optimized XGBoost using Optuna (100+ trials), achieving R² = 0.80. Integrated SHAP for model interpretability.
-
+### 🚗 Used Car Price Prediction Pipeline
+Regression pipeline with Optuna tuning and SHAP interpretability.  
 🔗 https://github.com/mnurulhoque/Prediction-of-Used-Car-Prices-Leveraging-Data-and-Machine-Learning
 
----
-
-### 📰 AI Fear Sentiment Analysis – NLP Project
-Analyzed media narratives around AI using NLP techniques to detect sentiment patterns and public perception trends.
-
+### 📰 AI Sentiment Analysis – NLP
+Sentiment analysis on AI-related articles to explore media bias and fear narratives.  
 🔗 https://github.com/mnurulhoque/Does-News-Media-Spread-Fear-of-AI--Sentiment-Analysis-through-NLP
 
----
-
-### 📊 Power BI Interactive Dashboard
-Business intelligence dashboards delivering insights through dynamic data visualization.
-
+### 📊 Power BI Dashboard
+Interactive BI dashboards visualizing business trends.  
 🔗 https://github.com/mnurulhoque/PowerBI-Dashboard
 
----
+### 🏫 NJ Childcare Centers Analysis
+Data analysis and distribution insights on childcare centers in NJ.  
+🔗 https://github://github.com/mnurulhoque/NJ-Childcare-Centers
 
-### 🏫 NJ Childcare Centers – Data Analysis
-Exploratory analysis and visualization of childcare center distribution and accessibility.
-
-🔗 https://github.com/mnurulhoque/NJ-Childcare-Centers
-
----
-
-### ⚡ Renewable Energy & Consumption Analysis
-Analyzed energy consumption patterns and renewable integration trends in the Middle Atlantic region.
-
+### ⚡ Renewable Energy Consumption Patterns
+Energy consumption and renewable integration analysis in the Middle Atlantic region.  
 🔗 https://github.com/mnurulhoque/integrating-renewable-energy-into-energy-consumption-patterns-in-the-Middle-Atlantic-region-of-US
 
 ---
@@ -81,23 +63,8 @@ Analyzed energy consumption patterns and renewable integration trends in the Mid
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mnurulhoque&show_icons=true&theme=default)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mnurulhoque&layout=compact&theme=default)
 
 ---
 
-## 🎯 Areas of Interest
-
-- Machine Learning Engineering
-- MLOps & Model Deployment
-- Cloud-based AI Systems (AWS)
-- Applied Data Science
-- Production ML Pipelines
-
----
-
-## 🤝 Let's Connect
-
-If you're interested in collaboration, ML engineering, or cloud-based AI systems — feel free to connect on LinkedIn or explore my repositories.
-
-⭐ If you find my projects useful, consider starring them!
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mnurulhoque.mnurulhoque)
