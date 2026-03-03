@@ -14,6 +14,8 @@
 </p>
 
 
+## Tech Stack & Tools
+
 <h3 align="left">🧑‍💻 Programming Languages</h3>
 
 <p align="left">
