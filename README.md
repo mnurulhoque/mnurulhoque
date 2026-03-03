@@ -135,5 +135,23 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![LangChain](https://img.shields.io/badge/LangChain-2B6CE4?style=for-the-badge&logo=python&logoColor=white)](https://www.langchain.com/)
 [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=python&logoColor=white)](https://gpt-index.readthedocs.io/)
+
+</p>
+
+## Career Focus
+
+I am actively interested in:
+
+- GenAI & ML Engineer roles  
+- Applied Data Scientist positions  
+- MLOps/Cloud-based AI Systems  
+- End-to-End ML Deployment Projects  
+
+</p>
+
+⭐ If you find my work useful, feel free to explore and star the repositories!
+
+
+
 [![LangGraph](https://img.shields.io/badge/LangGraph-FF6C37?style=for-the-badge&logo=python&logoColor=white)](https://www.langgraph.com/)
 </p>
