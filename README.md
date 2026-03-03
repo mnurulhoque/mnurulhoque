@@ -145,13 +145,10 @@ I am actively interested in:
 - GenAI & ML Engineer roles  
 - Applied Data Scientist positions  
 - MLOps/Cloud-based AI Systems  
-- End-to-End ML Deployment Projects  
 
 </p>
 
 ⭐ If you find my work useful, feel free to explore and star the repositories!
-
-
 
 [![LangGraph](https://img.shields.io/badge/LangGraph-FF6C37?style=for-the-badge&logo=python&logoColor=white)](https://www.langgraph.com/)
 </p>
