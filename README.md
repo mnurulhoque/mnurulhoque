@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnurulhoque&label=Profile%20views&color=0e75b6&style=flat" alt="ikajalpatel21" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://mnurulhoque.github.io/projects-portfolio.github.io/projects](https://mnurulhoque.github.io/projects-portfolio.github.io/projects)
+- 👨‍💻 All of my projects are available at [https://mnurulhoque.github.io/projects-portfolio.github.io](https://mnurulhoque.github.io/projects-portfolio.github.io)
 
 - 📫 How to reach me **nurul.hoque.ru@gmail.com**
 
