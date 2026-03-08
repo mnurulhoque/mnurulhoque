@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Nurul Hoque</h1>
-<h3 align="center">Data Engineer | Cloud Data Platforms (AWS, Azure, Snowflake, Airflow, dbt) | ML & Generative AI (LLMs, RAG) | MLOps</h3>
+<h3 align="center">Data Engineer | Data Scientist | Cloud Data Platforms (AWS, Azure, Snowflake, Airflow, dbt) | ML & Generative AI (LLMs, RAG) | MLOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnurulhoque&label=Profile%20views&color=0e75b6&style=flat" alt="ikajalpatel21" /> </p>
 
